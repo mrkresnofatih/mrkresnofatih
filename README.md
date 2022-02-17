@@ -39,7 +39,7 @@
                     <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-ExpressJs-000000?logo=express&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
-                    <img src="https://img.shields.io/badge/-Json%20Web%20Token-ff006a?logo=json-web-token&logoColor=white&style=for-the-badge">
+                    <img src="https://img.shields.io/badge/-Json%20Web%20Token-ff006a?logo=json-web-tokens&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-Pusher-300D4F?logo=pusher&logoColor=white&style=for-the-badge">
                 </p>
             </td>
