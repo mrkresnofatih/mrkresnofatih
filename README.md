@@ -45,6 +45,7 @@
             </td>
             <td>
                 <p>
+                    <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-Webstorm-000000?logo=webstorm&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge">
@@ -59,6 +60,7 @@
             </td>
             <td>
                 <p>
+                    <img src="https://img.shields.io/badge/-Dotnet-512BD4?logo=.net&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-AmazonAWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge">
