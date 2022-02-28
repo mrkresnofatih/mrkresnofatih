@@ -77,9 +77,6 @@
                 <h3>Lang. Usage</h3>
             </th>
             <th>
-                <h3>LeetCode Stats</h3>
-            </th>
-            <th>
                 <h3>Github Stats</h3>
             </th>
         </tr>
@@ -89,11 +86,6 @@
             <td>
                 <p>
                     <img src="https://github.com/mrkresnofatih/readme-github-stats/blob/master/generated/languages.svg">
-                </p>
-            </td>
-            <td>
-                <p>
-                    <img src="https://leetcode.card.workers.dev/?username=mrkresnofatih&font=baloo&theme=dark">
                 </p>
             </td>
             <td>
