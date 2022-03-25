@@ -63,34 +63,7 @@
                     <img src="https://img.shields.io/badge/-Dotnet-512BD4?logo=.net&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-AmazonAWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge">
-                    <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge">
-                    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge">
-                </p>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<table>
-    <thead>
-        <tr>
-            <th>
-                <h3>Lang. Usage</h3>
-            </th>
-            <th>
-                <h3>Github Stats</h3>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <p>
-                    <img src="https://github.com/mrkresnofatih/readme-github-stats/blob/master/generated/languages.svg">
-                </p>
-            </td>
-            <td>
-                <p>
-                    <img src="https://github.com/mrkresnofatih/readme-github-stats/blob/master/generated/overview.svg">
+                    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge">
                 </p>
             </td>
         </tr>
