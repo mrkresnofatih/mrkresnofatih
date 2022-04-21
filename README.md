@@ -5,7 +5,7 @@
     <thead>
         <tr>
             <th>
-                <h3>Languages</h3>
+                <h3>Languages/DBs</h3>
             </th>
             <th>
                 <h3>Frameworks</h3>
@@ -35,7 +35,6 @@
                 <p>
                     <img src="https://img.shields.io/badge/-NextJs-000000?logo=next.js&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-Dotnet-512BD4?logo=.net&logoColor=white&style=for-the-badge">
-                    <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-ExpressJs-000000?logo=express&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
@@ -45,16 +44,12 @@
             </td>
             <td>
                 <p>
-                    <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-Webstorm-000000?logo=webstorm&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge">
-                    <img src="https://img.shields.io/badge/-Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge">
-                    <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge">
-                    <img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-Rider-000000?logo=rider&logoColor=white&style=for-the-badge">
                 </p>
             </td>
