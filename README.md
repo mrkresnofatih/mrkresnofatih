@@ -25,7 +25,7 @@
                     <img src="https://img.shields.io/badge/-CSharp-6f36ff?logo=c-sharp&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-Typescrypt-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge">
-                    <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge">
+                    <img src="https://img.shields.io/badge/-Java-EC1C24?logo=java&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
                     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
