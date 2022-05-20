@@ -1,6 +1,11 @@
 <h1>Welcome! | ようこそ</h1>
 
-<h2>About Me | 私について</h2>
+![my toplangs](https://github.com/mrkresnofatih/gh-svg-upload-target/blob/main/generated/myTopLanguages.svg)
+![my recentrepos](https://github.com/mrkresnofatih/gh-svg-upload-target/blob/main/generated/myRecentRepositories.svg)
+![my recentlangs](https://github.com/mrkresnofatih/gh-svg-upload-target/blob/main/generated/myRecentLanguages.svg)
+![my contributions](https://github.com/mrkresnofatih/gh-svg-upload-target/blob/main/generated/myRecentContributions.svg)
+
+<!-- <h2>About Me | 私について</h2>
 <table>
     <thead>
         <tr>
@@ -64,4 +69,4 @@
             </td>
         </tr>
     </tbody>
-</table>
+</table> -->
