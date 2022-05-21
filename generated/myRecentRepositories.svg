@@ -41,7 +41,7 @@
 
     .pack {
       margin: 0 8px 16px 0;
-      animation: fadeInAnimation 1s;
+      animation: fadeInAnimation ease 1s;
     }
 
     .repotag {
@@ -67,11 +67,11 @@
 
           <div class="language_container">
 
-            <p class="pack"><span class="repotag" style="background:#F76E11;color:white;"><code>readme-github-stats</code></span><span class="rank" style="background:whitesmoke;">#0</span></p>
+            <p class="pack"><span class="repotag" style="background:#5902EC;color:white;"><code>GithubStatsGenerator</code></span> <span class="rank" style="background:whitesmoke;">#1</span></p>
 
-            <p class="pack"><span class="repotag" style="background:#5902EC;color:white;"><code>GithubStatsGenerator</code></span><span class="rank" style="background:whitesmoke;">#1</span></p>
+            <p class="pack"><span class="repotag" style="background:#F24A72;color:white;"><code>readme-github-stats</code></span> <span class="rank" style="background:whitesmoke;">#2</span></p>
 
-            <p class="pack"><span class="repotag" style="background:#F24A72;color:white;"><code>GhaS3LambdaFileDeployer</code></span><span class="rank" style="background:whitesmoke;">#2</span></p>
+            <p class="pack"><span class="repotag" style="background:#F76E11;color:white;"><code>GhaS3LambdaFileDeployer</code></span> <span class="rank" style="background:whitesmoke;">#3</span></p>
 
           </div>
 
