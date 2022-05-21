@@ -19,6 +19,7 @@
     @keyframes fadeInAnimation {
       0% {
         opacity: 0;
+        transform: translate(0, 100%);
       }
 
       100% {
@@ -47,13 +48,13 @@
             margin: 0 4px 4px;
         }
 
-        .colorbars1 { height: 30px; background-color: #00C897; }
-        .colorbars2 { height: 30px; background-color: #008E89; }
+        .colorbars1 { height: 53px; background-color: #333C83; }
+        .colorbars2 { height: 42px; background-color: #00C897; }
         .colorbars3 { height: 30px; background-color: #F24A72; }
-        .colorbars4 { height: 48px; background-color: #30AADD; }
-        .colorbars5 { height: 100px; background-color: #F76E11; }
-        .colorbars6 { height: 30px; background-color: #FE7E6D; }
-        .colorbars7 { height: 30px; background-color: #5902EC; }
+        .colorbars4 { height: 30px; background-color: #5902EC; }
+        .colorbars5 { height: 30px; background-color: #008E89; }
+        .colorbars6 { height: 48px; background-color: #F76E11; }
+        .colorbars7 { height: 100px; background-color: #30AADD; }
     </style>
     <g>
         <rect x="5" y="5" id="background" />
