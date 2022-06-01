@@ -60,8 +60,8 @@
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <h2 class="card_title">Recently Used Languages (Top 4)</h2>
                     <div class="language_container">
-                        <span class="percent" style="background:#00C897;color:white;"><code>Go</code></span>
-                        <span class="percent" style="background:#F24A72;color:white;"><code>Java</code></span>
+                        <span class="percent" style="background:#00C897;color:white;"><code>Java</code></span>
+                        <span class="percent" style="background:#F24A72;color:white;"><code>Go</code></span>
                     </div>
                     <div class="language_container">
                         <span class="percent" style="background:#30AADD;color:white;"><code>Python</code></span>
