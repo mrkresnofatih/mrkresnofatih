@@ -67,9 +67,9 @@
 
           <div class="language_container">
 
-            <p class="pack"><span class="repotag" style="background:#5902EC;color:white;"><code>hello-api</code></span> <span class="rank" style="background:whitesmoke;">#1</span></p>
+            <p class="pack"><span class="repotag" style="background:#00C897;color:white;"><code>hello-api</code></span> <span class="rank" style="background:whitesmoke;">#1</span></p>
 
-            <p class="pack"><span class="repotag" style="background:#F24A72;color:white;"><code>GithubStatsGenerator</code></span> <span class="rank" style="background:whitesmoke;">#2</span></p>
+            <p class="pack"><span class="repotag" style="background:#F76E11;color:white;"><code>GithubStatsGenerator</code></span> <span class="rank" style="background:whitesmoke;">#2</span></p>
 
             <p class="pack"><span class="repotag" style="background:#30AADD;color:white;"><code>BraveFish.RabbitBattleGear</code></span> <span class="rank" style="background:whitesmoke;">#3</span></p>
 
