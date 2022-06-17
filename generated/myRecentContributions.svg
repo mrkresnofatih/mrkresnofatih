@@ -48,12 +48,12 @@
             margin: 0 4px 4px;
         }
 
-        .colorbars1 { height: 100px; background-color: #FE7E6D; }
-        .colorbars2 { height: 71px; background-color: #F24A72; }
-        .colorbars3 { height: 48px; background-color: #30AADD; }
-        .colorbars4 { height: 48px; background-color: #008E89; }
-        .colorbars5 { height: 25px; background-color: #00C897; }
-        .colorbars6 { height: 48px; background-color: #F76E11; }
+        .colorbars1 { height: 100px; background-color: #5902EC; }
+        .colorbars2 { height: 71px; background-color: #00C897; }
+        .colorbars3 { height: 48px; background-color: #FE7E6D; }
+        .colorbars4 { height: 48px; background-color: #F76E11; }
+        .colorbars5 { height: 25px; background-color: #F24A72; }
+        .colorbars6 { height: 48px; background-color: #30AADD; }
         .colorbars7 { height: 25px; background-color: #333C83; }
     </style>
     <g>
