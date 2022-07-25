@@ -48,13 +48,13 @@
             margin: 0 4px 4px;
         }
 
-        .colorbars1 { height: 35px; background-color: #008E89; }
-        .colorbars2 { height: 100px; background-color: #5902EC; }
-        .colorbars3 { height: 25px; background-color: #FE7E6D; }
-        .colorbars4 { height: 25px; background-color: #F24A72; }
-        .colorbars5 { height: 35px; background-color: #00C897; }
-        .colorbars6 { height: 25px; background-color: #30AADD; }
-        .colorbars7 { height: 25px; background-color: #333C83; }
+        .colorbars1 { height: 57px; background-color: #333C83; }
+        .colorbars2 { height: 35px; background-color: #30AADD; }
+        .colorbars3 { height: 100px; background-color: #5902EC; }
+        .colorbars4 { height: 25px; background-color: #FE7E6D; }
+        .colorbars5 { height: 25px; background-color: #00C897; }
+        .colorbars6 { height: 35px; background-color: #F24A72; }
+        .colorbars7 { height: 25px; background-color: #F76E11; }
     </style>
     <g>
         <rect x="5" y="5" id="background" />
