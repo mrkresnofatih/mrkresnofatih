@@ -1,6 +1,6 @@
 <h1>Welcome! | ようこそ</h1>
 
-![my stats](https://github.com/mrkresnofatih/mrkresnofatih/blob/main/generated/pygithubstatsimg.png)
+![my stats](https://github.com/mrkresnofatih/MyGithubStats/blob/main/generated/pygithubstatsimg.png)
 
 <!-- <h2>About Me | 私について</h2>
 <table>
